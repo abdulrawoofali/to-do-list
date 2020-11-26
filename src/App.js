@@ -7,8 +7,11 @@ function App() {
 	return (
 		<>
 			<div className="App">
-				<TaskCreator />
-				<TaskViewerList />
+				<div>
+					<TaskCreator />
+
+					<TaskViewerList />
+				</div>
 			</div>
 		</>
 	);
