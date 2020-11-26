@@ -1,0 +1,3 @@
+export const HANDLE_SUBMIT = "HANDLE_SUBMIT"
+export const HANDLE_EDIT ="HANDLE_EDIT"
+export const HANDLE_UPDATE="HANDLE_UPDATE"
